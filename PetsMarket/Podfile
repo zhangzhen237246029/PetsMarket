@@ -1,0 +1,21 @@
+target 'PetsMarket' do
+  # Pods for PetsMarket
+
+    pod ‘Masonry’
+    pod ‘AFNetworking’
+    pod ‘SDWebImage’
+    pod ‘YYKit’
+    pod ‘BlocksKit’
+    pod ‘MBProgressHUD’
+    pod ‘MJRefresh’
+    pod 'CHTCollectionViewWaterfallLayout'
+    pod ‘UITableView+FDTemplateLayoutCell’
+    pod 'iCarousel'
+    pod 'WMPageController'
+    pod 'MLTransition'
+    pod 'CocoaLumberjack'
+    #  pod 'MWPhotoBrowser'
+    #  pod ‘DACircularProgress’
+    #  pod ‘PSTCollectionView’
+
+end
